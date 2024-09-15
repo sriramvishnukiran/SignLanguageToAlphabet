@@ -16,7 +16,9 @@ This project utilizes Convolutional Neural Networks (CNN) and custom data creati
   - [References](#references)
 
 ## Introduction
+Communication is a fundamental aspect of human interaction, and for individuals with hearing or speech impairments, sign language serves as a vital tool for expressing thoughts and emotions. Sign language relies on a series of hand gestures and movements to convey meaning, making it an essential communication medium within the Deaf and Hard of Hearing (DHH) community. However, a challenge arises when individuals who do not understand sign language need to communicate effectively with those who rely on it.
 
+To bridge this gap, our project aims to develop a system that translates sign language gestures into alphabet characters. This system will focus on the manual alphabet—hand signs that correspond to the letters of the written alphabet—enabling communication between sign language users and those unfamiliar with the language. By leveraging modern technologies such as computer vision and machine learning, the system can recognize hand gestures and map them to corresponding alphabet letters in real-time.
 
 ## Installation
 
