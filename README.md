@@ -17,15 +17,6 @@ This project utilizes Convolutional Neural Networks (CNN) and custom data creati
 
 ## Introduction
 
-This project is part of the CS335 (AI/ML Lab) course instructed by Prof. Preethi Jyothi.
-
-Collaboratively developed by:
-
-- Aditya Raj
-- Hruday Nandan Tudu
-- Modulla Hrushikesh Reddy
-- Shikhar Parmar
-- Duggineni Venkata Paneesh
 
 ## Installation
 
